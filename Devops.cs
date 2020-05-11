@@ -11,6 +11,7 @@ namespace m4git
         static void Main(string[] args)
         {
             Console.WriteLine("hello world");
+            Console.WriteLine("Edited");
             Console.ReadLine();
         }
     }
