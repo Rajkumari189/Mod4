@@ -12,6 +12,7 @@ namespace m4git
         {
             Console.WriteLine("hello world");
             Console.WriteLine("Edited");
+            Console.WriteLine("edited twice");
             Console.ReadLine();
         }
     }
